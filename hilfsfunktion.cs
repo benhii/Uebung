@@ -13,6 +13,10 @@ namespace ConsoleApp1
     {
 
 
+        public static int dividiere(int a, int b)
+        {
+            return a / b;
+        }
 
 
         public static int subtrahiere(int a, int b)
