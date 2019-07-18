@@ -5,3 +5,10 @@ c:\users\stmarien\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
 c:\users\stmarien\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
 c:\users\stmarien\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 c:\users\stmarien\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+Z:\test\bin\Debug\ConsoleApp1.exe.config
+Z:\test\bin\Debug\ConsoleApp1.exe
+Z:\test\bin\Debug\ConsoleApp1.pdb
+Z:\test\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+Z:\test\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+Z:\test\obj\Debug\ConsoleApp1.exe
+Z:\test\obj\Debug\ConsoleApp1.pdb

@@ -13,6 +13,14 @@ namespace ConsoleApp1
     {
 
 
+
+
+        public static int subtrahiere(int a, int b)
+        {
+            return a - b;
+        }
+
+
         public static int addiere(int a, int b)
         {
             return a + b;
@@ -25,9 +33,7 @@ namespace ConsoleApp1
 
             for (; b > 0; b--)
             {
-
                 Ergebnis = Ergebnis * a;
-
             }
 
             return Ergebnis;
